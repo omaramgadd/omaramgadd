@@ -1,4 +1,4 @@
-# Omar Amgad
+# Omar Abdel
 
 ### AI / ML Engineer
 
